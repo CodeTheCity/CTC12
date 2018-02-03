@@ -5,7 +5,7 @@ There were three projects at the event:
 
 ## Hotspotting
 
-* Repo [Hotspotting]("https://github.com/CodeTheCity/hotspotting")
+* Repo [Hotspotting](https://github.com/CodeTheCity/hotspotting)
 
 ## Pathfinder
 
