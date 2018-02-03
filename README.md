@@ -5,9 +5,12 @@ There were three projects at the event:
 
 ## Hotspotting
 
-* Repo [Hotspotting](https://github.com/CodeTheCity/hotspotting)
+* Repo for [Hotspotting](https://github.com/CodeTheCity/hotspotting)
 
 ## Pathfinder
+* Repo for [Pathfinder](https://github.com/CodeTheCity/pathfinder)
 
 ## Spaceport
+* Repo for [Aberdeen Spaceport](https://github.com/gavbarnett/AberdeenSpaceport)
+
 
